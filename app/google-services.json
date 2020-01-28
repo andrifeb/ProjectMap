@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "682903986694",
+    "firebase_url": "https://project-map-2496b.firebaseio.com",
+    "project_id": "project-map-2496b",
+    "storage_bucket": "project-map-2496b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682903986694:android:a64b78447a73794c",
+        "android_client_info": {
+          "package_name": "com.mbul.projectmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682903986694-ibaiac5vqi1ckio549qc54ocb0kors1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbul.projectmap",
+            "certificate_hash": "96dae49530f3d09a137273e4d208f67cee175782"
+          }
+        },
+        {
+          "client_id": "682903986694-61358m1nke9npr9a60545l6p5sb6pfvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbul.projectmap",
+            "certificate_hash": "d1b444b8b7c2c6acf6e4f30b06fd3c5ef5d503bf"
+          }
+        },
+        {
+          "client_id": "682903986694-fbg06s3lg8nots3mhojghd4he8412r0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvGasldlIMe2vZvSHUOzAzbh0BrnMOEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682903986694-fbg06s3lg8nots3mhojghd4he8412r0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

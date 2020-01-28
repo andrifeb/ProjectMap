@@ -1,0 +1,48 @@
+<resources>
+    <string name="title">Pencarian Reparasi Komputer</string>
+    <string name="user">USER</string>
+    <string name="jasa">JASA</string>
+    <string name="pengguna">PENGGUNA JASA</string>
+    <string name="penyedia">PENYEDIA JASA</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">LOGOUT</string>
+    <string name="registrasi">REGISTRASI</string>
+    <string name="masuk">MASUK</string>
+    <string name="keluar">KELUAR</string>
+    <string name="batal">BATAL</string>
+    <string name="app_name">Project Map</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="nama">Nama</string>
+    <string name="no_telp">No. Telp</string>
+    <string name="nama_toko">Nama Toko</string>
+    <string name="alamat_toko">Alamat Toko</string>
+    <string name="kesalahan">Terjadi Kesalahan</string>
+    <string name="belum_daftar">Data Anda Belum Terdaftar</string>
+    <string name="beranda">Beranda</string>
+    <string name="todo">TODO</string>
+
+    <string name="tentang">Aplikasi ini dibuat untuk mencari tempat Jasa Reparasi Komputer</string>
+
+    <string name="contoh_nama">Andri Febriyansyah</string>
+    <string name="contoh_nama_toko">Javacomp</string>
+    <string name="contoh_alamat">No 9 Samping Mesjid Alfalah, Jl. Swadaya Raya, RT.5/RW.5, Duren Sawit,
+        Kec. Duren Sawit, DKI Jakarta, Daerah Khusus Ibukota Jakarta 13440</string>
+    <string name="contoh_notelp">0856–9277–8556</string>
+
+    <string-array name="kecamatan">
+        <item>Cakung</item>
+        <item>Cipayung</item>
+        <item>Ciracas</item>
+        <item>Duren Sawit</item>
+        <item>Jatinegara</item>
+        <item>Kramat Jati</item>
+        <item>Makasar</item>
+        <item>Matraman</item>
+        <item>Pasar Rebo</item>
+        <item>Pulo Gadung</item>
+    </string-array>
+
+    <string name="access_token">sk.eyJ1IjoicnlhbjE1MDI5NSIsImEiOiJjanlndWpxNHcwNG1pM2NyNWN0eG81cjQ4In0.5O3lz13RI99i9hmowk_0tw</string>
+    <string name="distance">KM</string>
+</resources>

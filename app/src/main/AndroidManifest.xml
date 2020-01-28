@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mbul.projectmap">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+        <activity android:name=".user.UserNavigActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".user.UserStatusActivity"
+            android:label="Status Reparasi"
+            android:theme="@style/CustomTheme"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".jasa.JasaWorkActivity"
+            android:label="Daftar Pekerjaan"
+            android:theme="@style/CustomTheme"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".PassResetActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".jasa.JasaMapActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".user.UserMapActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".LoadingActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".RouteActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".jasa.JasaMainActivity"
+            android:label="@string/beranda"
+            android:theme="@style/CustomTheme"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".user.UserMainActivity"
+            android:label="@string/beranda"
+            android:theme="@style/CustomTheme"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".jasa.JasaRouteActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".user.UserRouteActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".RegisActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".LoginActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

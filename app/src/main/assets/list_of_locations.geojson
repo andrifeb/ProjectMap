@@ -1,0 +1,855 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Achyief Komputer",
+        "email": "achyief@gmail.com",
+        "no_telp": "0878-8186-8283",
+        "alamat": "Jl. Tipar Cakung, RT.1/RW.8, Cakung Bar., Kec. Cakung, DKI Jakarta, Daerah Khusus Ibukota Jakarta 13910",
+		"kecamatan": "Cakung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.935771,
+          -6.171604
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "EGID PrintShop",
+        "email": "egid@gmail.com",
+        "no_telp": "0857-1120-5182",
+        "alamat": "Jl. Irigasi No.151, RT.9/RW.2, Ujung Menteng, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13960",
+		"kecamatan": "Cakung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9665,
+          -6.186298
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Ady Jaya Komp",
+        "email": "adyjaya@gmail.com",
+        "no_telp": "0852-1880-7488",
+        "alamat": "Jl. Kayu Tinggi RT. 002/011 No. 101, Cakung Timur, Cakung, Jakarta Timur, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13910",
+		"kecamatan": "Cakung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.947648,
+          -6.183058
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "LuthasCom",
+        "email": "luthas@gmail.com",
+        "no_telp": "0812-1810-1801",
+        "alamat": "Jl. Raya Kayu Tinggi, RT.2/RW.3, Cakung Tim., Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13910",
+		"kecamatan": "Cakung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.944423,
+          -6.182142
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Ditya.com",
+        "email": "ditya@gmail.com",
+        "no_telp": "(021) 46800812",
+        "alamat": "Jl. Raya Bekasi, RW.3, Rw. Terate, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13920, KM 21, PTC Pulogadung Lantai 2 KS02.A.0711-072",
+		"kecamatan": "Cakung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.915925,
+          -6.183462
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Aldo Computer",
+        "email": "aldo@gmail.com",
+        "no_telp": "0838-0492-1834",
+        "alamat": "Jl. Pengarengan No.1, RT.2/RW.8, Jatinegara, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13930",
+		"kecamatan": "Cakung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.920302,
+          -6.211453
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Tazakka Indonesia",
+        "email": "tazakka@gmail.com",
+        "no_telp": "0857-7007-4006",
+        "alamat": "Jl. Marzuki 2 Kampung Jembatan Rt 06 Rw 17, samping Baksotazakka, Penggilingan, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13940",
+		"kecamatan": "Cakung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.929924,
+          -6.214538
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Syifa Komputer",
+        "email": "syifakom@gmail.com",
+        "no_telp": "0812-8728-5888",
+        "alamat": "Jl. Raya Pondok Gede, No.2, Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13810",
+		"kecamatan": "Cipayung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.89831,
+          -6.287424
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Diandra Komputer",
+        "email": "diandra@gmail.com",
+        "no_telp": "0812-9228-189",
+        "alamat": "Jl. Manunggal XVII No.4, RT.4/RW.11, Lubang Buaya, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13810",
+		"kecamatan": "Cipayung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.899082,
+          -6.297877
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "KC Komputer",
+        "email": "kckom@gmail.com",
+        "no_telp": "0822-0828-4828",
+        "alamat": "Jl. Manunggal II No.20A, RT.3/RW.1, Ceger, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13820",
+		"kecamatan": "Cipayung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.888791,
+          -6.311287
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Millenium Disc",
+        "email": "milledisk@gmail.com",
+        "no_telp": "0857-8279-2910",
+        "alamat": "Jl. Kp. Keramat No.65, RT.5/RW.4, Setu, Kec. Cipayung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13880",
+		"kecamatan": "Cipayung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.920132,
+          -6.319028
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Gumay Com",
+        "email": "gumay@gmail.com",
+        "no_telp": "0813-1057-9896",
+        "alamat": "Jl. Penganten Ali, Ciracas, Jakarta Timur",
+		"kecamatan": "Ciracas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.880215,
+          -6.316736
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "AA Komputer",
+        "email": "aakom@gmail.com",
+        "no_telp": "0853-1905-4237",
+        "alamat": "Jl. H. Baping RT. 012/04 No. 32A Kel. Ciracas Kec. Ciracas Jakarta Timur, 13750",
+		"kecamatan": "Ciracas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.873414,
+          -6.315783
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Restu Computer",
+        "email": "restucom@gmail.com",
+        "no_telp": "0857-7681-9664",
+        "alamat": "Jl. H. Jusin No.11A, RT.11/RW.1, Susukan, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13750",
+		"kecamatan": "Ciracas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.864769,
+          -6.313725
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Talita Komputer",
+        "email": "talita@gmail.com",
+        "no_telp": "0852-2869-4494",
+        "alamat": "Jl. H. Baping No.16, RT.10/RW.7, Ciracas, Kec. Ciracas, DKI Jakarta, Daerah Khusus Ibukota Jakarta 13740",
+		"kecamatan": "Ciracas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.872653,
+          -6.319696
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Surya Computer",
+        "email": "suryacom@gmail.com",
+        "no_telp": "(021) 8710913",
+        "alamat": "Jl. Raya Ciracas Blok F No.2, RT.4/RW.2, Ciracas, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13740",
+		"kecamatan": "Ciracas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.873713,
+          -6.32988
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Duta Bagus",
+        "email": "dutabagus@gmail.com",
+        "no_telp": "(021) 87709522",
+        "alamat": "Jl. Cibubur I No.12, RT.3/RW.12, Cibubur, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13720",
+		"kecamatan": "Ciracas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.873837,
+          -6.342168
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Microdata Comp",
+        "email": "microdata@gmail.com",
+        "no_telp": "0815-8222-754",
+        "alamat": "Jl. Cibubur I No.91, RT.01/RW.01, Cibubur, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13720",
+		"kecamatan": "Ciracas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.87379,
+          -6.344642
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Bage Computer",
+        "email": "bagecomp@gmail.com",
+        "no_telp": "0857-8077-5914",
+        "alamat": "Jl. Cibubur VI No.7, Jl. Nasional 1 No.9, RT.1/RW.9, Cibubur, Kec. Ciracas, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13720",
+		"kecamatan": "Ciracas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.879651,
+          -6.352181
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Sodagar Komp. PK",
+        "email": "sodakompk@gmail.com",
+        "no_telp": "(021) 86607467",
+        "alamat": "Jl. Robusta Raya No.6, RT.2/RW.7, Pondok Kopi, Duren Sawit, Kota Jakarta Timur, Jakarta 13460",
+		"kecamatan": "Duren Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.947208,
+          -6.225113
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "AnnurNet",
+        "email": "annurnet@gmail.com",
+        "no_telp": "0853-1907-6006",
+        "alamat": "Jl. Bunga Rampai Raya No.34b, RT.17/RW.9, Malaka Jaya, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13460",
+		"kecamatan": "Duren Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.935417,
+          -6.224627
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Ilda Comp. Buaran",
+        "email": "ildacombr@gmail.com",
+        "no_telp": "0811-1692-277",
+        "alamat": "Jl. Buaran Raya No.7 C, RT.4/RW.12, Klender, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13470",
+		"kecamatan": "Duren Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.917291,
+          -6.220706
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Isma Computer",
+        "email": "ismacom@gmail.com",
+        "no_telp": "0877-7779-3949",
+        "alamat": "Jl. Keamanan No.48, RT.3/RW.5, Pd. Bambu, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13430",
+		"kecamatan": "Duren Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.900494,
+          -6.239032
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "RS Komputer",
+        "email": "rskom@gmail.com",
+        "no_telp": "0812-8855-5993",
+        "alamat": "Jl. Swadaya I No.44, RT.2/RW.1, Duren Sawit, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13440",
+		"kecamatan": "Duren Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.918866,
+          -6.231766
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Javacomp",
+        "email": "javacomp@gmail.com",
+        "no_telp": "0856-9277-8556",
+        "alamat": "Jl. Swadaya Raya, RT.5/RW.5, No 9 Samping Mesjid Alfalah, Duren Sawit, Kec. Duren Sawit, DKI Jakarta, Daerah Khusus Ibukota Jakarta 13440",
+		"kecamatan": "Duren Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9162648,
+          -6.2364908
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Ilda Comp. PK",
+        "email": "ildacompk@gmail.com",
+        "no_telp": "0857-8066-5555",
+        "alamat": "Jl. Pd. Kelapa Raya Blok L9 No.4, RT.4/RW.9, Pd. Klp., Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13450",
+		"kecamatan": "Duren Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9338108,
+          -6.2347607
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Berkat Komputer",
+        "email": "berkatkom@gmail.com",
+        "no_telp": "0811-873-559",
+        "alamat": "Jl. Masjid Al-Wustho No.6, RT.6/RW.16, Duren Sawit, Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13440",
+		"kecamatan": "Duren Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.911097,
+          -6.245546
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Service Komp. Kapin",
+        "email": "serviskom@gmail.com",
+        "no_telp": "0812-3756-6526",
+        "alamat": "Jl. Kapin Raya Kp. Baru No.1A, RT.9/RW.8, Pd. Klp., Kec. Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13450",
+		"kecamatan": "Duren Sawit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9276675,
+          -6.2506453
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Amar Computer",
+        "email": "amarcom@gmail.com",
+        "no_telp": "0899-1969-101",
+        "alamat": "Jl. Cipinang Muara Raya, RT.15/RW.3, No.10A, Cipinang Muara, Kecamatan Jatinegara, Jakarta Timur, Daerah Khusus Ibukota Jakarta 40115",
+		"kecamatan": "Jatinegara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8883499,
+          -6.2271553
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "SIS Computer",
+        "email": "siscom@gmail.com",
+        "no_telp": "0812-8190-9405",
+        "alamat": "Jl. Cipinang Besar No.40, RT.7/RW.6, Cipinang Besar Sel., Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13410",
+		"kecamatan": "Jatinegara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8787628,
+          -6.2274227
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Bali Tehnik Comp",
+        "email": "balitehnik@gmail.com",
+        "no_telp": "(021) 92948900",
+        "alamat": "Jl. Kebon Nanas Selatan I, RT.1/RW.8, Cipinang Cempedak, Kecamatan Jatinegara, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13330",
+		"kecamatan": "Jatinegara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8675625,
+          -6.2325478
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Klinik PC",
+        "email": "klinikpc@gmail.com",
+        "no_telp": "0813-1677-6996",
+        "alamat": "Jl. Raya Inpres No.11, RT.5/RW.9, Kp. Tengah, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13520",
+		"kecamatan": "Kramat Jati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8581013,
+          -6.2863617
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Kevin Komputer",
+        "email": "kevinkom@gmail.com",
+        "no_telp": "0857-7501-3918",
+        "alamat": "Jl. Raya Inpres No.6, RT.5/RW.9, Kp. Tengah, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13540",
+		"kecamatan": "Kramat Jati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8585691,
+          -6.2866533
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Gudang Service",
+        "email": "gudangservice@gmail.com",
+        "no_telp": "0812-2375-7010",
+        "alamat": "Jl. Mayjen Sutoyo No.670-671, RW.11, Cililitan, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13640, Pusat Grosir Cililitan, lt 3a",
+		"kecamatan": "Kramat Jati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.864314,
+          -6.2618838
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Professional Comp",
+        "email": "procom@gmail.com",
+        "no_telp": "0852-1656-9829",
+        "alamat": "Jl. Jengki No.3, RT.5/RW.12, Kb. Pala, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13650",
+		"kecamatan": "Makasar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.878916,
+          -6.255964
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Klinik Komp",
+        "email": "klinikom@gmail.com",
+        "no_telp": "0812-1218-5005",
+        "alamat": "Jl. Jengki No. 6 4 9, RT.4/RW.9, Kb. Pala, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13650",
+		"kecamatan": "Makasar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8779807,
+          -6.2596941
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "MGGF Comp",
+        "email": "mggfcom@gmail.com",
+        "no_telp": "0857-7829-0825",
+        "alamat": "Jl. Kerja Bakti No.78, RT.8/RW.2, Makasar, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13570",
+		"kecamatan": "Makasar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8763013,
+          -6.274052
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Rajawali Comp",
+        "email": "rajawalicom@gmail.com",
+        "no_telp": "(021) 8010505",
+        "alamat": "Jl. Raya Pd. Gede No.22C, RT.1/RW.1, Pinang Ranti, Kec. Makasar, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13560",
+		"kecamatan": "Makasar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.885697,
+          -6.2906697
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Nopocomputer",
+        "email": "nopocom@gmail.com",
+        "no_telp": "0815-8503-2651",
+        "alamat": "Jl. Kayu Manis Timur No.40, RT.6/RW.4, Utan Kayu Utara, Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13110",
+		"kecamatan": "Matraman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.862238,
+          -6.198905
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Space Computer",
+        "email": "spacecom@gmail.com",
+        "no_telp": "0811-960-687",
+        "alamat": "Jl. Kramat Asem, RT.4/RW.12, Utan Kayu Sel., Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13120",
+		"kecamatan": "Matraman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8678872,
+          -6.2032912
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Alonsa Komputer",
+        "email": "alonsakom@gmail.com",
+        "no_telp": "0821-1112-8414",
+        "alamat": "Jl. Pisangan Baru 3 No.8 5 5, RT.2/RW.5, Pisangan Baru, Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13110",
+		"kecamatan": "Matraman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8647561,
+          -6.2117818
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "NC Komputer",
+        "email": "nckom@gmail.com",
+        "no_telp": "0813-8097-0732",
+        "alamat": "Jl. Pertengahan No.6A, RT.4/RW.3, Cijantung, Pasar Rebo, DKI Jakarta, Daerah Khusus Ibukota Jakarta 13770",
+		"kecamatan": "Pasar Rebo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8555233,
+          -6.3218697
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Dlaga Komputer",
+        "email": "dlagakom@gmail.com",
+        "no_telp": "0857-8059-3008",
+        "alamat": "Jl. Kalisari Raya No.65, RT.9/RW.3, Kalisari, Kec. Ps. Rebo, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13790",
+		"kecamatan": "Pasar Rebo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8507413,
+          -6.3327527
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Konsultan Komputer",
+        "email": "kokom@gmail.com",
+        "no_telp": "0858-1001-4190",
+        "alamat": "Jl. Lestari Gang Rahayu 2, RT.11/RW.3, Kalisari, Kec. Ps. Rebo, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13790",
+		"kecamatan": "Pasar Rebo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8466023,
+          -6.3326467
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "PKM Computer",
+        "email": "pkmcom@gmail.com",
+        "no_telp": "0878-8592-3187",
+        "alamat": "Jl. RA. Fadillah, Pertokoan Puskopad, RT.04/RW.7, Baru, Kec. Ps. Rebo, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13780",
+		"kecamatan": "Pasar Rebo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.845179,
+          -6.325181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Sodagar Komp. RM",
+        "email": "sodakomrm@gmail.com",
+        "no_telp": "(021) 29834601",
+        "alamat": "Jl. Sunan Giri No.5, RT.2/RW.15, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220",
+		"kecamatan": "Pulo Gadung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8821273,
+          -6.1938807
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Prisma Computer",
+        "email": "prismacom@gmail.com",
+        "no_telp": "0816-1679-343",
+        "alamat": "Jl. Waru No.10, RT.7/RW.7, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220",
+		"kecamatan": "Pulo Gadung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8839812,
+          -6.1965904
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Mahardika Comp",
+        "email": "mahardikacom@gmail.com",
+        "no_telp": "0858-8031-1012",
+        "alamat": "Jl. Waru No.6, RT.2/RW.9, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220",
+		"kecamatan": "Pulo Gadung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8860302,
+          -6.1966981
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Sodong Computer",
+        "email": "sodongcom@gmail.com",
+        "no_telp": "0822-2058-4959",
+        "alamat": "Jl. Sodong Raya No.10, RT.5/RW.17, Cipinang, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13240",
+		"kecamatan": "Pulo Gadung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8955234,
+          -6.2048889
+        ]
+      }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama_toko": "Rumah PC",
+        "email": "rumahpc@gmail.com",
+        "no_telp": "0858-8865-4792",
+        "alamat": "Jl. Tawes No.40B, RT.21/RW.6, Jati, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220",
+		"kecamatan": "Pulo Gadung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8919076,
+          -6.200729
+        ]
+      }
+    }
+  ]
+}

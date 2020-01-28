@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".user.UserMapActivity">
+
+    <com.mapbox.mapboxsdk.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        mapbox:mapbox_cameraTargetLat="-6.2261694"
+        mapbox:mapbox_cameraTargetLng="106.9009139"
+        mapbox:mapbox_cameraZoom="12"
+        mapbox:mapbox_cameraZoomMin="10"
+        mapbox:mapbox_uiAttribution="false" />
+
+    <ImageButton
+        android:id="@+id/backBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/corner_circle"
+        android:contentDescription="@string/todo"
+        android:onClick="onClick"
+        android:clickable="true"
+        android:focusable="true"
+        android:src="@drawable/round_arrow_back_white_48" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/map_layout_rv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="30dp"
+        android:visibility="visible"/>
+
+    <Button
+        android:id="@+id/navigateBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignBottom="@id/mapView"
+        android:layout_marginBottom="30dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:padding="10sp"
+        android:background="@color/colorGreen"
+        android:text="Mulai Reparasi"
+        android:textSize="20sp"
+        android:textColor="@color/colorWhite"
+        android:visibility="gone"/>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"/>
+
+</RelativeLayout>

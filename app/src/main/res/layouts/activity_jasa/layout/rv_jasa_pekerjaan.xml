@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pekerjaan_card_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    app:cardCornerRadius="7dp">
+
+    <LinearLayout
+        android:id="@+id/linear_parent_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/data_card_layout"
+            android:layout_width="180dp"
+            android:layout_height="match_parent"
+            app:cardCornerRadius="7dp">
+            <RelativeLayout
+                android:id="@+id/data_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:background="@color/colorPrimaryDark_blue">
+
+                <TextView
+                    android:id="@+id/namaTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/contoh_nama"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="18sp"/>
+
+                <TextView
+                    android:id="@+id/noTelpTv"
+                    android:layout_width="220sp"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/namaTv"
+                    android:layout_marginTop="14dp"
+                    android:text="@string/contoh_notelp"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="18sp"/>
+
+            </RelativeLayout>
+        </androidx.cardview.widget.CardView>
+
+        <RelativeLayout
+            android:id="@+id/pekerjaan_relative_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/terimaBtn"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:layout_toStartOf="@+id/tolakBtn"
+                android:layout_margin="5dp"
+                android:background="@drawable/corner_round_green"
+                android:text="Terima"
+                android:textColor="@color/colorWhite"
+                android:visibility="visible" />
+
+            <Button
+                android:id="@+id/tolakBtn"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_margin="5dp"
+                android:background="@drawable/corner_round_red"
+                android:text="Tolak"
+                android:textColor="@color/colorWhite"
+                android:visibility="visible"/>
+
+            <LinearLayout
+                android:id="@+id/status_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toStartOf="@id/prosesBtn"
+                android:layout_margin="5dp"
+                android:background="@drawable/corner_round_light"
+                android:orientation="vertical"
+                android:padding="5dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/status_header"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Status : "
+                    android:textColor="@color/colorWhite"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/statusTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Permit"
+                    android:textColor="@color/colorGreen"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/prosesBtn"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_margin="5dp"
+                android:background="@drawable/corner_round_light"
+                android:text="Proses"
+                android:textColor="@color/colorWhite"
+                android:visibility="gone"/>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

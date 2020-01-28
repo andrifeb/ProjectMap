@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Menu"
+        app:showAsAction="always"
+        android:icon="@drawable/round_account_circle_white_36">
+
+        <menu>
+
+            <item
+                android:id="@+id/namaItem"
+                android:title="Nama"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/ubahData"
+                android:icon="@drawable/outline_create_black_36"
+                android:title="Ubah Data"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/signOut"
+                android:icon="@drawable/outline_arrow_back_black_36"
+                android:title="Logout"
+                app:showAsAction="never" />
+
+        </menu>
+
+    </item>
+
+</menu>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map_view_location_card"
+    android:layout_width="match_parent"
+    android:layout_height="210dp"
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    android:layout_marginTop="8dp"
+    android:background="?attr/colorPrimary"
+    app:cardCornerRadius="3dp"
+    tools:ignore="MissingPrefix">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraint_upper_color"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?attr/colorPrimary">
+
+        <View
+            android:id="@+id/upper_view"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginTop="0dp"
+            app:layout_constraintBottom_toTopOf="@+id/guideline12"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.0"/>
+
+        <View
+            android:id="@+id/white_view"
+            android:layout_width="0dp"
+            android:layout_height="150dp"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginTop="0dp"
+            android:background="@android:color/white"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/guideline12"
+            app:layout_constraintVertical_bias="0.0"/>
+
+        <FrameLayout
+            android:id="@+id/icon_frame_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            app:layout_constraintLeft_toLeftOf="@+id/guideline10"
+            app:layout_constraintStart_toStartOf="@+id/guideline5"
+            app:layout_constraintTop_toTopOf="@+id/guideline11">
+
+            <ImageView
+                android:id="@+id/emoji"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="0dp"
+                android:src="@drawable/jasa_icon"/>
+
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/location_name_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="28sp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="4dp"
+            app:layout_constraintLeft_toRightOf="@+id/icon_frame_layout"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="@string/contoh_nama"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorWhite"/>
+
+        <TextView
+            android:id="@+id/no_telp_header_tv"
+            android:layout_width="0dp"
+            android:layout_height="17dp"
+            android:layout_marginTop="8dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            app:layout_constraintBottom_toBottomOf="@+id/icon_frame_layout"
+            app:layout_constraintLeft_toLeftOf="@+id/location_name_tv"
+            app:layout_constraintTop_toBottomOf="@+id/location_name_tv"
+            tools:text="Kontak : "
+            android:textColor="@color/md_grey_200"/>
+
+        <TextView
+            android:id="@+id/location_no_telp_tv"
+            android:layout_width="0dp"
+            android:layout_height="17dp"
+            android:layout_marginTop="8dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            app:layout_constraintLeft_toRightOf="@+id/no_telp_header_tv"
+            app:layout_constraintBottom_toBottomOf="@+id/no_telp_header_tv"
+            tools:text="@string/contoh_notelp"
+            android:textColor="@color/md_grey_200"/>
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_begin="7dp"/>
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_begin="6dp" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintGuide_begin="61dp" />
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_end="17dp"/>
+
+        <TextView
+            android:id="@+id/alamat_header_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="@string/alamat_toko"
+            app:layout_constraintLeft_toLeftOf="@+id/guideline5"
+            app:layout_constraintTop_toTopOf="@+id/guideline12"/>
+
+        <TextView
+            android:id="@+id/location_alamat_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="60dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="18dp"
+            android:layout_marginTop="0dp"
+            app:layout_constraintLeft_toLeftOf="@+id/alamat_header_tv"
+            app:layout_constraintTop_toBottomOf="@+id/alamat_header_tv"
+            app:layout_constraintEnd_toStartOf="@+id/guideline13"
+            tools:text="@string/contoh_alamat" />
+
+        <Button
+            android:id="@+id/pilihJasaBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:background="@color/md_grey_500"
+            android:text="Pilih Jasa"
+            android:textSize="20sp"
+            android:textColor="@color/colorWhite"/>
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_begin="20dp"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

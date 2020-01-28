@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#002AFF</color>
+    <color name="colorPrimaryLight">#AFBBFF</color>
+    <color name="colorPrimaryDark">#011FCE</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorText">#666666</color>
+    <color name="colorGreen">#00FF00</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorYellow">#FFEB3B</color>
+    <color name="colorMilky">#D5E2FF</color>
+
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="mapboxWhite">#ffffff</color>
+    <color name="mapboxBlue">#4264fb</color>
+    <color name="mapboxGrayLight">#c6d2e1</color>
+
+    // Blue theme's colors
+    <color name="colorPrimary_blue">#45AAE9</color>
+    <color name="colorPrimaryDark_blue">#268DBA</color>
+    <color name="colorAccent_blue">#9FCCE0</color>
+    <color name="navigationRouteLine_blue">#6ECAF1</color>
+    <color name="cardHourAndPhoneTextColor_blue">#1082B2</color>
+    <color name="cardHourAndPhoneHeaderTextColor_blue">#3997C0</color>
+
+    <color name="colorSample">#3E84AF</color>
+</resources>
